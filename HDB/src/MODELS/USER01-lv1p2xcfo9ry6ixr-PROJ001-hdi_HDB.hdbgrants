@@ -1,0 +1,14 @@
+{
+  "USER01-lv1p2xcfo9ry6ixr-PROJ001-hdi_HDB": {
+    "object_owner": {
+      "container_roles": [
+        "PROJ001::ROLER2"
+      ]
+    },
+    "application_user": {
+      "container_roles": [
+        "PROJ001::ROLER2"
+      ]
+    }
+  }
+}

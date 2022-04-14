@@ -1,0 +1,14 @@
+{
+  "PROJ003::DELIVERY": {
+    "target": {
+      "object": "PROJ001::DELIVERY",
+      "schema.configure": "USER01-lv1p2xcfo9ry6ixr-PROJ001-hdi_HDB/schema"
+    }
+  },
+  "PROJ003::ORDERS": {
+    "target": {
+      "object": "PROJ001::ORDERS",
+      "schema.configure": "USER01-lv1p2xcfo9ry6ixr-PROJ001-hdi_HDB/schema"
+    }
+  }
+}

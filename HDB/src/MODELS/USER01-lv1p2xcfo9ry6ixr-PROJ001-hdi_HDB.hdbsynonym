@@ -1,0 +1,9 @@
+{
+  "PROJ003::ORDERS": {
+    "target": {
+      "object": "PROJ001::ORDERS",
+      "schema": "PROJ001_CONT_1",
+      "database": "HD1"
+    }
+  }
+}
